@@ -1,3 +1,5 @@
 polarismesh/polaris-server:v1.18.1: dev.psmtech.com.cn:8888/public/polarismesh/polaris-server
 polarismesh/polaris-console:v1.15.0: dev.psmtech.com.cn:8888/public/polarismesh/polaris-console
 polarismesh/polaris-limiter:v1.0.5: dev.psmtech.com.cn:8888/public/polarismesh/polaris-limiter
+emqx/emqx:5.6.0: dev.psmtech.com.cn:8888/public/emqx/emqx:5.6.0
+clickhouse/clickhouse-server:24.1.8: dev.psmtech.com.cn:8888/public/clickhouse/clickhouse-server:24.1.8
