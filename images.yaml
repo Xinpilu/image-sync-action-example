@@ -1,5 +1,6 @@
-polarismesh/polaris-server:v1.18.1: dev.psmtech.com.cn:8888/public/polarismesh/polaris-server
+#polarismesh/polaris-server:v1.18.1: dev.psmtech.com.cn:8888/public/polarismesh/polaris-server
 # polarismesh/polaris-console:v1.15.0: dev.psmtech.com.cn:8888/public/polarismesh/polaris-console
 # polarismesh/polaris-limiter:v1.0.5: dev.psmtech.com.cn:8888/public/polarismesh/polaris-limiter
 # emqx/emqx:5.6.0: dev.psmtech.com.cn:8888/public/emqx/emqx
 # clickhouse/clickhouse-server:24.1.8: dev.psmtech.com.cn:8888/public/clickhouse/clickhouse-server
+apache/skywalking-java-agent:9.0.0-java17 dev.psmtech.com.cn:8888/public/apache/skywalking-java-agent:9.0.0-java17
