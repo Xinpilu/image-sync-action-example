@@ -5,4 +5,5 @@
 # clickhouse/clickhouse-server:24.1.8: dev.psmtech.com.cn:8888/public/clickhouse/clickhouse-server
 #apache/skywalking-java-agent:9.0.0-java17 dev.psmtech.com.cn:8888/public/apache/skywalking-java-agent:9.0.0-java17
 #alpine:3.20: dev.psmtech.com.cn:8888/public/alpine
-openanolis/anolisos:8.6: dev.psmtech.com.cn:8888/public/openanolis/anolisos
+#openanolis/anolisos:8.6: dev.psmtech.com.cn:8888/public/openanolis/anolisos
+openanolis/openjdk:17-8.6: dev.psmtech.com.cn:8888/public/openanolis/openjdk
