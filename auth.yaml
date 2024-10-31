@@ -1,4 +1,4 @@
-dev.psmtech.com.cn:8888:
+docker.tool.psmtech.com.cn:8081:
   username: admin
   password: ${TEST_PASSWORD}
-  insecure: true
+
