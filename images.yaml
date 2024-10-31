@@ -7,4 +7,5 @@
 #alpine:3.20: dev.psmtech.com.cn:8888/public/alpine
 #openanolis/anolisos:8.6: dev.psmtech.com.cn:8888/public/openanolis/anolisos
 # openanolis/openjdk:17-8.6: dev.psmtech.com.cn:8888/public/openanolis/openjdk
-elasticsearch:7.17.23: dev.psmtech.com.cn:8888/public/elasticsearch/elasticsearch:7.17.23
+# elasticsearch:7.17.23: dev.psmtech.com.cn:8888/public/elasticsearch/elasticsearch:7.17.23
+apache/hertzbeat-collector: dev.psmtech.com.cn:8888/public/hertzbeat-collector:1.6.1
