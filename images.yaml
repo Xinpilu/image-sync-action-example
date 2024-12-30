@@ -8,4 +8,6 @@
 #openanolis/anolisos:8.6: dev.psmtech.com.cn:8888/public/openanolis/anolisos
 # openanolis/openjdk:17-8.6: dev.psmtech.com.cn:8888/public/openanolis/openjdk
 # elasticsearch:7.17.23: dev.psmtech.com.cn:8888/public/elasticsearch/elasticsearch:7.17.23
-apache/hertzbeat-collector:latest: docker.tool.psmtech.com.cn:8081/public/hertzbeat-collector:1.6.1
+# apache/hertzbeat-collector:latest: docker.tool.psmtech.com.cn:8081/public/hertzbeat-collector:1.6.1
+arm64v8/mysql:8.4: dev.psmtech.com.cn:8888/arm/mysql:8.4
+arm64v8/redis:latest: dev.psmtech.com.cn:8888/arm/redis:latest
