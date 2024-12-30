@@ -6,9 +6,6 @@ on:
 jobs:
   sync-images:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        architecture: ['arm64']
     steps:
       - name: Checkout
         uses: actions/checkout@v3
