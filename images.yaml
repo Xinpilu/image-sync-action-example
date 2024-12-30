@@ -12,7 +12,7 @@
 # arm64v8/mysql:8.2: docker.tool.psmtech.com.cn:8081/arm/mysql:8.2
 #arm64v8/redis:latest: docker.tool.psmtech.com.cn:8081/arm/redis:latest
 # arm64v8/rabbitmq:3.11.14-management: docker.tool.psmtech.com.cn:8081/arm/rabbitmq:3.11.14-management
-linux/arm64/bitnami/minio:2023.4.20: docker.tool.psmtech.com.cn:8081/arm/minio:2023.4.20
+bitnami/minio:2023.4.20 --platform=arm64: docker.tool.psmtech.com.cn:8081/arm/minio:2023.4.20
 arm64/nacos/nacos-server:v2.4.3: docker.tool.psmtech.com.cn:8081/arm/nacos-server:v2.4.3
 arm64/nginx:1.24.0: docker.tool.psmtech.com.cn:8081/arm/nginx:1.24.0
 arm64/seata-server:1.6.1: docker.tool.psmtech.com.cn:8081/arm/seata-server:1.6.1
