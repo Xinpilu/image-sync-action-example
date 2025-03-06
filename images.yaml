@@ -14,5 +14,6 @@
 # arm64v8/rabbitmq:3.11.14-management: docker.tool.psmtech.com.cn:8081/arm/rabbitmq:3.11.14-management
 # bitnami/minio:2023.4.20: docker.tool.psmtech.com.cn:8081/arm/minio:2023.4.20
 # nacos/nacos-server:v2.4.3: docker.tool.psmtech.com.cn:8081/arm/nacos-server:v2.4.3
-nginx:1.24.0: docker.tool.psmtech.com.cn:8081/arm/nginx:1.24.0
+# nginx:1.24.0: docker.tool.psmtech.com.cn:8081/arm/nginx:1.24.0
 #arm64/seata-server:1.6.1: docker.tool.psmtech.com.cn:8081/arm/seata-server:1.6.1
+openjdk:8-jre-slim: docker.tool.psmtech.com.cn:8081/public/library/openjdk:8-jre-slim-all
